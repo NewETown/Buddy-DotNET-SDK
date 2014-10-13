@@ -288,7 +288,6 @@ namespace BuddySDK
                 {
                     UnhandledException(null, a);
                 }
-                args.Handled = a.IsHandled;
             };
         }
 
